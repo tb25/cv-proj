@@ -1,3 +1,7 @@
 numpy
+scipy
+scikit-image
+cv2
+matplotlib
 h5py
 gdown
