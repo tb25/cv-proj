@@ -20,4 +20,4 @@ Then clone https://github.com/mjdietzx/SimGAN.git
 change the original dataset to .h5 format and then run the training script provided with the 
 generated images from the DAGAN in .h5 format as well as the original real images also in .h5
 
-
+check out the slides at: https://docs.google.com/presentation/d/1brSZnAa2EZ6tBdxGZcyG0jfIJDji_q0o3sVm2pYwoCU/edit?usp=sharing
